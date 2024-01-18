@@ -10,7 +10,7 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/duribeiro">
+  <a href="https://github.com/SamAlvezz">
     <img height="150em" src="https://github-readme-streak-stats.herokuapp.com?user=SamAlvezz&theme=dracula&mode=weekly"/>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamAlvezz&theme=dracula&hide_border=false&&layout=compact"/>
   </a>
